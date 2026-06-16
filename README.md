@@ -27,6 +27,8 @@ Advanced ERPNext Architecture
 Data Science & Machine Learning
 AI-powered Business Applications
 Scalable Backend Systems
+
+
 🎯 Goal
 
 Building technology solutions that simplify business operations, automate workflows, and transform data into actionable insights.
