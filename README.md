@@ -1,32 +1,58 @@
-# Dhiraj Pujari
+Hi there 👋 I'm Dhiraj Pujari
 
-🚀 Passionate Software Engineer with a Vision for Data Science Excellence 🚀
+Software Engineer passionate about building scalable business applications, ERP solutions, and data-driven systems. I specialize in developing and customizing ERPNext applications using the Frappe Framework, with hands-on experience in manufacturing workflows, HRMS processes, system integrations, and business automation.
 
-Greetings from Pune, Maharashtra! I'm Dhiraj Pujari, a dedicated Mechanical Engineer turned Software Engineer with a love for coding and a fervent dream of becoming a proficient Data Scientist.
+💻 What I Work With
+Python
+Frappe Framework
+ERPNext Development & Customization
+JavaScript
+Jinja
+MySQL / MariaDB
+REST APIs
+Flask
+Pandas & NumPy
+Machine Learning
+🚀 Areas of Expertise
+ERPNext Implementation & Support
+Manufacturing Process Management
+HRMS & Employee Management Systems
+Workflow Automation
+Custom App Development
+Report & Dashboard Development
+Business Process Optimization
+System Integration
+🌱 Currently Exploring
+Advanced ERPNext Architecture
+Data Science & Machine Learning
+AI-powered Business Applications
+Scalable Backend Systems
+🎯 Goal
 
-🎓 Academic Background:
-Hold a Bachelor’s Degree in Mechanical Engineering from PVPIT College, Pune University, where my mechanical engineering foundation laid the groundwork for my analytical mindset.
+Building technology solutions that simplify business operations, automate workflows, and transform data into actionable insights.
 
-💼 Professional Experience:
-Currently navigating the dynamic landscape of technology as a Software Engineer, simultaneously embracing the freedom of freelancing. My journey involves crafting solutions that blend technology with innovation, aimed at elevating business intelligence.
+**"Turning business requirements into efficient, scalable, and impactful software solutions."**
+**ERPNext & Frappe Developer | Software Engineer | Python Developer | Business Process Automation | Enterprise Solutions**
 
-🌐 Self-Motivated Learning Journey:
-After completing my engineering studies, I delved into the world of Data Science, self-learning C and C++ programming languages through online resources, including YouTube. I further honed my skills by completing various Data Science courses and a Full Stack Python Development course, demonstrating my dedication to continuous improvement and learning.
+ERPNext Modules & Business Domains
 
-🤖 Data Science Internship Experience:
-My tenure as a Data Scientist intern was a transformative experience, providing me with invaluable skills in predictive modeling and machine learning. The internship honed my ability to collect, clean, and interpret data, further enriching my expertise.
-
-🔗 Skills Snapshot:
-
-- Python
-- Machine Learning Algorithms
-- Predictive Modelling
-- Pandas & NumPy
-- MySQL / Flask
-- JavaScript / Frappe / Jinja
-- Software Development / Integration
-
-🏆 Team Player with a Focus on Excellence:
-Proudly embodying the spirit of a team player, I bring a unique blend of speed and accuracy to project objectives. My goal is to deliver high-quality business intelligence solutions, enhancing operational efficiency for the businesses I collaborate with.
-
-🚀 Join me on this exciting journey, where technology meets innovation, and together, let's make a difference!
+• Accounting & Finance
+• Sales Management
+• CRM (Customer Relationship Management)
+• Procurement & Purchasing
+• Inventory & Stock Management
+• Manufacturing & Production Planning
+• Human Resources (HRMS)
+• Projects & Task Management
+• Quality Management
+• Customer Support & Helpdesk
+• Point of Sale (POS)
+• Asset Management
+• Maintenance Management
+• Subcontracting
+• Workflow Automation
+• Reports & Analytics
+• User Roles & Permissions
+• Custom App Development
+• API Integrations
+• Print Formats & Custom Scripts
